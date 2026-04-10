@@ -26,4 +26,23 @@ The application utilizes a **Multi-Model Orchestration** strategy:
 - **Claude 3.5 Haiku (Syntax):** Handles strict SVG/Mermaid.js code generation.
 - **Palmyra X5 (Market Intelligence):** Conducts 2026-specific Risk and ROI analysis.
 
+
+## 🛠️ The Technical Blueprint
+> *The following is a representative output of the system's architectural design thinking:*
+
+![technical blueprint](./assets/technical-blueprint.png)
+
+---
+
+## 🚀 Key Features
+- **Deterministic Parameter Tuning:** Utilizes low-temperature inference ($0.1$) for engineering precision and higher temperature for persuasive business strategy.
+- **Human-in-the-Loop (HITL) Integration:** Explicitly maps clinician/expert review queues and DPO preference pair generation into the AI lifecycle.
+- **Zero-Retention Privacy Layer:** Enforces PII masking and session-based data handling as core architectural constraints to ensure HIPAA/SOC2 compliance.
+
+---
+
+## 🎓 Project Context
+Developed for the **2026 Udacity AWS AI/ML Scholar Challenge**. This project explores the transition from simple conversational AI to complex, agentic multi-model workflows within the Amazon Bedrock ecosystem.
+
 **Engineered by:** Vishnu Krishnakumar Menon
+
