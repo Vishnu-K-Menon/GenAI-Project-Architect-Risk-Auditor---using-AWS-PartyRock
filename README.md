@@ -41,6 +41,20 @@ The application utilizes a **Multi-Model Orchestration** strategy:
 
 ---
 
+## 📊 Executive Risk & ROI Audit
+*While the technical blueprint ensures system integrity, this module translates architectural decisions into executive-level business metrics. Utilizing **Palmyra X5** as the market-intelligence engine, it assesses financial feasibility, operational risks, and projected returns.*
+
+### **Key Output Dimensions:**
+- **FinOps & Cost Strategy:** Token expenditure estimates, infrastructure scaling costs, and break-even analysis.
+- **Risk & Liability Mitigation:** Evaluation of the "hallucination tax," HIPAA/SOC2 compliance gaps, and required safety guardrails.
+- **Business Value (ROI):** Projected productivity gains and efficiency metrics tailored to the 2026 enterprise landscape.
+
+> *The following is a representative output of the system's business logic:*
+
+![roi_report](./assets/report.png)
+
+---
+
 ## 🎓 Project Context
 Developed for the **2026 Udacity AWS AI/ML Scholar Challenge**. This project explores the transition from simple conversational AI to complex, agentic multi-model workflows within the Amazon Bedrock ecosystem.
 
