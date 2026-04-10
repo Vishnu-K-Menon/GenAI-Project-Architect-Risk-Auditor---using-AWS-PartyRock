@@ -22,8 +22,8 @@ The **Snapshot Link** above showcases a high-fidelity audit of a behavioral heal
 
 ## 🛠️ System Orchestration Logic
 The application utilizes a **Multi-Model Orchestration** strategy:
-- **Claude 3.5 Sonnet (Reasoning):** Generates deep technical blueprints.
-- **Claude 3.5 Haiku (Syntax):** Handles strict SVG/Mermaid.js code generation.
+- **Claude Sonnet 4.6 (Reasoning):** Generates deep technical blueprints.
+- **Claude 4.5 Sonnet (Syntax):** Handles strict SVG/Mermaid.js code generation.
 - **Palmyra X5 (Market Intelligence):** Conducts 2026-specific Risk and ROI analysis.
 
 
